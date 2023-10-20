@@ -1,0 +1,17 @@
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/WeatherApp
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/WeatherApp.deps.json
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/WeatherApp.runtimeconfig.json
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/WeatherApp.dll
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/WeatherApp.pdb
+/Users/rakinbrown/repos/WeatherApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfo.cs
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.CopyComplete
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.dll
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/refint/WeatherApp.dll
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.pdb
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/WeatherApp.genruntimeconfig.cache
+/Users/rakinbrown/repos/WeatherApp/obj/Debug/net7.0/ref/WeatherApp.dll

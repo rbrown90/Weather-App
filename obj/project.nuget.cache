@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+4FD70Ja1sV328EczAWQBTkLp85GHbceFgUjoqgq/HIkSsjUrgqcT7tdPL4oO9JdQyFmHSP/Ywy0Gzy+qFmuQ==",
+  "success": true,
+  "projectFilePath": "/Users/rakinbrown/repos/WeatherApp/WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rakinbrown/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
